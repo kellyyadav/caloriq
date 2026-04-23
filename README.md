@@ -218,4 +218,4 @@ caloriq/
 
 ---
 
-Made with ❤️ — CaloriQ
+Made with ❤️ by kelly yadav 
